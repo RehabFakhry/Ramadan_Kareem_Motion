@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingStart">32dp</dimen>
+    <dimen name="mediumText">20sp</dimen>
+    <dimen name="paddingMedium">16dp</dimen>
+    <dimen name="paddingLarge">64dp</dimen>
+    <dimen name="paddingXL">72dp</dimen>
+    <dimen name="marginSmall">4dp</dimen>
+    <dimen name="marginLarge">32dp</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ramadan Kareem</string>
+    <string name="prayer_time">Prayer Time</string>
+    <string name="fajr">Fajr</string>
+    <string name="_4_40">04:40 am</string>
+    <string name="zohr">zohr</string>
+    <string name="_12_05">12:05 pm</string>
+    <string name="asr">Asr</string>
+    <string name="_3_30">03:30 pm</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="_6_05">06:05 pm</string>
+    <string name="eshaa">Eshaa</string>
+    <string name="_7_20">07:20 pm</string>
+</resources>
